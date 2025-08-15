@@ -1,3 +1,8 @@
+# Traffic Video Analytics Using YOLOv7 in Computer Vision
+
+> Developed collaboratively by **Shivendra S. Patil** and [Rohit Ingle/ https://github.com/rohitingle34].
+
+
 # Traffic Video Analytics Using YOLOv7 In Computer Vision 
 ##### C-DAC Project PG-DAI (20 February 2023 to 15 March 2023)
 Traffic video analytics is an important technology for managing traffic flow and improving road safety. One of the key challenges in traffic video analytics is the accurate classification of vehicles and detection of pedestrians from video footage in real-time. In recent years, deep learning-based approaches have shown great promise in addressing this problem. One such approach is the YOLOv7 algorithm, which is a state-of-the-art object detection algorithm that uses a single neural network to perform both object detection and classification. In this project, we present a study on YOLOv7 for realtime vehicle classification and pedestrian detection from traffic video footage.
